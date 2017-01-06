@@ -1,0 +1,2 @@
+# Linearsearch
+linearsearch algorithm
